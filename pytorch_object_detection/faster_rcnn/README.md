@@ -37,7 +37,7 @@
 * 如果不了解数据集或者想使用自己的数据集进行训练，请参考我的bilibili：https://b23.tv/F1kSCK
 * 使用ResNet50+FPN以及迁移学习在VOC2012数据集上得到的权重: 链接:https://pan.baidu.com/s/1ifilndFRtAV5RDZINSHj5w 提取码:dsz8
 
-## 训练方
+## 训练方法
 * 确保提前准备好数据集
 * 确保提前下载好对应预训练模型权重
 * 若要训练mobilenetv2+fasterrcnn，直接使用train_mobilenet.py训练脚本
